@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 ```
-supervised-learning-project/
+medical-banking-classification-ml/
 │
 ├── project_for_supervised_learning.ipynb   # Main Jupyter Notebook
 ├── project_for_supervised_learning.html    # HTML export of the notebook
